@@ -1,0 +1,7 @@
+torch
+torchaudio
+gradio
+matplotlib
+numpy
+pesq
+pystoi
