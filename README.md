@@ -1,6 +1,6 @@
 # Speech Bandwidth Extension via Generative Adversarial Networks
 
-![SEANet Spectrogram Reconstruction](path/to/your/image.png)
+![SEANet Spectrogram Reconstruction](https://raw.githubusercontent.com/harshil-0/GAN_BWE/main/evaluation_results/spectrogram_sample_1.png)
 
 ## Executive Summary
 This project outlines the development of a machine learning pipeline capable of restoring missing high-frequency spectrums in telephonic or narrowband speech (8kHz) to wideband quality (24kHz). To satisfy the hardware constraints of a local 8GB VRAM GPU (RTX 4060) and the project requirement of utilizing post-2022 GAN architectures, the project underwent a rigorous iterative engineering process.
